@@ -1,0 +1,19 @@
+bin
+include
+lib
+pyvenv.cfg
+
+# Pycache
+__pycache__
+
+# Oauth creds
+credentials.json
+
+# Token cache
+token.pickle
+
+# Python venv
+gcal-venv
+
+# Config
+config.py

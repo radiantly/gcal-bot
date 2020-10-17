@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length", "100"],
+  "python.pythonPath": "gcal-venv/bin/python"
+}
